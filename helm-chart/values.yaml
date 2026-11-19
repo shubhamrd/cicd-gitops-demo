@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: shubhamrdalvi/cicd-demo-app
-  tag: "75ea0f546ad6dfe920dfa0a805c97b4416b8b7a6"
+  tag: "d77e63f4d71a5e86137fad92f9fd54de8f2d40da"
   pullPolicy: Always
 
 service:

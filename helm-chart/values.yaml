@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: <YOUR_DOCKERHUB_USERNAME>/cicd-demo-app
+  repository: shubhamrdalvi/cicd-demo-app
   tag: "75ea0f546ad6dfe920dfa0a805c97b4416b8b7a6"
   pullPolicy: Always
 
